@@ -1,0 +1,40 @@
+
+{
+  "food": "Food delivery",
+  "@food": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "search": "Search for restaurants or foods",
+  "top" : "Top Restaurants",
+  "order" : "Ordered by Nearby first",
+  "tend" : "Trending This Week",
+  "double" : "Double click on the food to add it to the cart",
+  "name": "Salah mustafa yaaqba",
+  "guest" : "Guest",
+  "home" : "Home",
+  "nofication" :"Notifications",
+  "favoritefood" : "Favorite foods",
+  "applicationPrefrences": "Application Prefrences",
+  "help" : "Help & Support",
+  "setting" : "Setting",
+  "language" : "Languages",
+  "lightmode" : "Light mode",
+  "login" : "Login",
+  "version" : "Version 2.3.2",
+  "profile" : "Profile",
+  "earnin" : "    Total\n Earnings",
+  "ordered" : "Total Orders",
+  "re" : "       Total\n Restaurants",
+  "about" : "  About",
+  "text" : "   The term originally referred to messages sent using the Short Message Service (SMS). It has grown beyond alphanumeric text to include multimedia messages using the Multimedia Messaging Service (MMS) containing digital images, videos, and sound content, as well as ideograms known as emoji (happy faces, sad faces, and other icons), and instant messenger applications (usually the term is used when on mobile devices).",
+
+  "appLanguage" : "App Language",
+  "selectLang" : "Selected your preferred language :",
+  "wait" : "Please wait...",
+  "section" : "You must sign-in to access\n\n                this section",
+  "accout" : "I don't have an account?",
+  "titleorder": "Orders",
+  "swipe" : "Swipe left the notification to delete or read/\nunread it",
+  "neworder" : "New Order from customer",
+  "delete" : "Delete"
+}
